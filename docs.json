@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "GDGOC Unilorin Resource Hub",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4285F4",
+    "light": "#FBBC05",
+    "dark": "#202124"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,55 +14,47 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting Started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "join-gdgoc",
+              "community-rules",
+              "how-to-contribute"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Learning Paths",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "paths/web-development",
+              "paths/mobile-development",
+              "paths/cloud-computing",
+              "paths/machine-learning"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Event Resources",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "events/devfest",
+              "events/info-session",
+              "events/hackathons",
+              "events/workshops"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Tools & Platforms",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
+              "tools/firebase",
+              "tools/flutter",
+              "tools/github",
+              "tools/gdsc-platform"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Career Growth",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "career/portfolio-tips",
+              "career/linkedin-guide",
+              "career/resume-template"
             ]
           }
         ]
@@ -71,13 +63,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "GDGOC Unilorin",
+          "href": "https://gdg.community.dev/university-of-ilorin/",
+          "icon": "users"
+        },
+        {
+          "anchor": "Google Developer Resources",
+          "href": "https://developers.google.com/",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://medium.com/gdg",
           "icon": "newspaper"
         }
       ]
@@ -91,32 +88,32 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:gdgocunilorin@gmail.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Join Community",
+      "href": "https://gdg.community.dev/university-of-ilorin/"
     }
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/gdgocunilorin",
+      "github": "https://github.com/gdgocunilorin",
+      "linkedin": "https://linkedin.com/company/gdgocunilorin",
+      "instagram": "https://instagram.com/gdgocunilorin"
     }
   }
 }
