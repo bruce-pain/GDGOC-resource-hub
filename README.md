@@ -133,7 +133,7 @@ GDGOC-resource-hub/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/gdgocunilorin/GDGOC-resource-hub.git
+   git clone https://github.com/Oladotunlaniyan/GDGOC-resource-hub.git
    cd GDGOC-resource-hub
    ```
 
@@ -385,8 +385,7 @@ console.log("Hello, GDGOC!");
 
 - 📧 **Email**: [gdgocunilorin@gmail.com](mailto:gdgocunilorin@gmail.com)
 - 🌐 **Community**: [GDGOC Unilorin](https://gdg.community.dev/university-of-ilorin/)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/gdgocunilorin/GDGOC-resource-hub/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/gdgocunilorin/GDGOC-resource-hub/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Oladotunlaniyan/GDGOC-resource-hub/issues)
 
 ### Troubleshooting
 
